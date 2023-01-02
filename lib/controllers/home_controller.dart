@@ -35,7 +35,7 @@ class _NavigateFromHomePage
     context, 
     _HomeController._navigate(
       page: const ConlangMainPage(), 
-      routeName: '/conlang'
+      routeName: '/conlang-codx2012EAY'
     )
   );
 
@@ -43,7 +43,7 @@ class _NavigateFromHomePage
     context,
     _HomeController._navigate(
       page: const MyProfilePage(), 
-      routeName: '/myprofile'
+      routeName: '/myprofile-codx1998MfO'
     )
   );
 
@@ -51,7 +51,7 @@ class _NavigateFromHomePage
     context,
     _HomeController._navigate(
       page: const MyProjectsPage(), 
-      routeName: '/myprojects'
+      routeName: '/myprojects-codx2020PdS'
     )
   );
 
@@ -59,7 +59,7 @@ class _NavigateFromHomePage
     context,
     _HomeController._navigate(
       page: const StartupPage(), 
-      routeName: '/symbesoft'
+      routeName: '/symbesoft-codx2018SsS'
     )
   );
 
@@ -67,7 +67,7 @@ class _NavigateFromHomePage
     context,
     _HomeController._navigate(
       page: const MyStoriesPage(), 
-      routeName: '/mystories'
+      routeName: '/mystories-codx2014SdT'
     )
   );
 }
