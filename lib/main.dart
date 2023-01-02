@@ -1,4 +1,4 @@
-import 'package:plume/views/external_pages/home/home_page.dart';
+import 'package:plume/views/home/home_page.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 
